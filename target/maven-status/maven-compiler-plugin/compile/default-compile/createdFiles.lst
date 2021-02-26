@@ -1,0 +1,4 @@
+com\consorcio\web\pages\wikipedia\WikipediaResultsPage.class
+com\consorcio\web\report\Reporter.class
+com\consorcio\web\pages\wikipedia\GoogleHomePage.class
+com\consorcio\web\pages\wikipedia\WikipediaHomePage.class
